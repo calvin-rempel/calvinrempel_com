@@ -1,0 +1,17 @@
+{{ partial "header.html" .}}
+  <!--Content Preview/List-->
+  <div>
+    <h1>{{.Title}}</h1>
+    {{.Content}}
+
+    <!--Post Listing, repeat for each post-->
+    {{ range .Pages }}
+    <div class="article">
+      <span>{{ dateFormat "January 2, 2006" .Date }}</span>
+      <a href={{ .Permalink }}>{{ .Title }}</a>
+      <br><br>
+    </div>
+    {{ end }}
+
+  </div>
+{{partial "footer.html" .}}

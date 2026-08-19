@@ -1,0 +1,54 @@
+---
+title: "Sugar, Sugar Everywhere"
+date: 2016-03-16
+draft: false
+---
+As the Christmas break began, I transitioned to a wheat free diet. I was
+inspired by the book Wheat Belly to try this back in 2013 when I lived in
+Saskatoon. The basic idea that resonated with me at the time was that Wheat is
+high on the glycemic index, causes your blood sugar levels to spike, and feeds a
+vicious feedback cycle of sugar highs and lows which contributes to obesity,
+diabetes and so on. Now, I am not sure I agree with Dr. Davis’s assessment which
+(to exaggerate a bit) places wheat at the root of all our physical ailments.
+However, even if he is totally off base with his assessment of wheat, if you
+avoid the foods that contain wheat you tend to avoid a lot of the garbage food
+out there – and to fill the void you may need to increase your intake of
+healthier foods. So, in practice, his approach seems to work.
+
+I began the Christmas break at around 285 or more pounds (at one point before,
+I had weighed in at 290 pounds) and as of this morning I weighed in at 261.5
+pounds. Not too shabby.
+
+But I still have a ways to go. I still eat too much meat, and a LOT of cheese.
+Not that meat and cheese are bad for you on their own, but – as the scriptures
+say – in all things, moderation. So, I am trying to increase my intake of
+vegetables, which among other things means more salads.
+
+Yesterday, I decided that I was going to start making more of my own chef
+salads. So off to Wal*Mart I went to buy the needed ingredients – some peppers,
+some cucumbers, some ranch salad dressing, some ham, and so on. Now, since I
+returned to the wheat free lifestyle in earnest, I have been paying more
+attention to labels of the food I buy, and have been astonished by the places I
+find wheat. I have also noticed something else disturbing – the places that
+sugar is found. Yesterday, I decided to pay special attention to the sugar.
+Well, forget buying ham without sugar in it! I found one that didn’t have sugar
+in the list, but was coated in carmel something – which I rightly or wrongly
+interpreted as sugar. (I think I MIGHT have found one without, but it cost too
+much for too little ham). I settled on turkey instead.
+
+Then I set out to look for ranch dressing. Once again, bottle after bottle
+contains sugar. The closest thing I found to sugar free contained concentrated
+pineapple juice. I gave up buying ranch dressing and decided to make my own.
+
+One of the ingredients that I needed was mayonnaise. So I started looking for
+mayonnaise. Once again, I ran into – you guessed it – more sugar! Seriously!
+Why do these things all contain sugar? This is ridiculous!
+
+I did some more research and settled on making my own Mayo and from that my own
+salad dressing. A bit time consuming, but not all that hard (though, I did have
+a few failed attempts before getting the mayonnaise recipe figured out).
+
+The point behind this post is this: Sugar is everywhere – in most sauces
+(even Sirracha has it), most processed meats, most jerky, and on the list goes.
+And as I keep finding sugar in more things, I keep asking myself, “What is sugar
+doing here? This does not make sense!”

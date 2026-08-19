@@ -1,0 +1,25 @@
+{{ partial "header.html" .}}
+{{ partial "nav.html" .}}
+  <!--Content Preview/List-->
+  <div>
+    <h1>{{.Title}}</h1>
+    {{.Content}}
+
+    <!--Post Listing, repeat for each post-->
+    {{ range .Paginator.Pages }}
+    <div>
+      <h3><a href={{ .Permalink }}>{{ .Title }} - {{ dateFormat "January 2, 2006" .Date }}</a></h3>
+      <span>{{ .Summary }}</span>
+      <a href={{ .Permalink }}>Read More</a>
+      <br><br><br>
+    </div>
+    {{ end }}
+
+    {{ if .Paginator.HasNext }}
+    <a href={{.Paginator.Next.URL}}>Show Older</a>
+    {{ end }}
+    {{ if .Paginator.HasPrev }}
+    <a href={{.Paginator.Prev.URL}}>Show Newer</a>
+    {{ end }}
+  </div>
+{{partial "footer.html" .}}

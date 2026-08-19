@@ -1,0 +1,45 @@
+---
+title: "Team Randomizer"
+date: 2015-04-15
+---
+![team randomizer screenshot](/img/randomizer.jpg)About a month back, we had to
+pick teams in which to do our accounting project.
+My professor told us that if we had not chosen a team by a certain date, he
+would write the names of all the unpaired people on small pieces of paper, put
+them in a hat and draw them out. In this day and age, I thought for sure that he
+must be joking. As it turns out, he was not. While there is allegedly an online
+tool in the system used for generating random teams, from the sounds of it –
+depending on exactly what you want to do in creating a team – it may not always
+be the most easy thing to use.
+
+So I decided that I should take a crack at writing my own random team generator.
+Initially, I thought I would write it as a typical command line application.
+However, in this day and age of pervasive GUI’s (Graphical User Interfaces), who
+wants to mess around with the command line? So I concluded that this application
+NEEDS to be a GUI, with a simple interface that anyone can use with minimal
+instruction.
+
+But what API should I use to create the GUI? A number of options presented
+themselves. I could try using GTK2, but that lacks compatibility (at least for
+the free version) with Visual Studio. I then looked at WX Widgets, and I think
+one or two other apis. It seemed like pretty well everything had a pretty steep
+learning curve, made all the steeper by the need to find a way to
+install/configure the api to work with Visual Studio. In the end, I settled on
+the classic WIN32 API (I can hear some of you shuddering).
+
+It actually wasn’t that bad, using the WIN32API, though it did highlight a
+number of things that I need to learn more about (such as function pointers,
+callbacks, etc). But, after a few evenings work, I had a finished product.
+The first version was compiled with Visual Studio, but in order to distribute
+it, I needed to mess around with building an installer file in order to comply
+with the licensing restrictions of the redistributable libraries required to
+make it run. At some point, I do need to learn more about this, as I am rather
+fond of Visual Studio’s debugging environment. But for the time being, it seemed
+quicker to just reconfigure and recompile the project using Code::Blocks so that
+I would not have any unmet library dependencies (in theory) when distributing
+this among Windows machines.
+
+So, without further ado, [here is the program](/files/RandomTeamGenerator.zip)
+for those of you interested in trying it. Please read the README.txt file for
+licensing restrictions prior to using the program. Your use of the program
+constitutes your agreement with the terms as laid out in that file.

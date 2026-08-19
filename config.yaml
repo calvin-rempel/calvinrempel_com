@@ -1,0 +1,11 @@
+baseURL: /
+title: "Cal's Toybox"
+defaultContentLanguage: en
+languages:
+  en:
+    lang: en
+    languageName: English
+    weight: 1
+MetaDataFormat: "yaml"
+layoutDir: layouts
+disableHugoGeneratorInject: true
